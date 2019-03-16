@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+/Users/wojtek-developer/Downloads/JAZ_kalkulator-master/Kalkulator_Kredytowy/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4178987349.index
+/src/src
